@@ -4,10 +4,10 @@ The purpose of this project is to make the process of taking feedback from the  
 Student needs to logging into the website of online feedback system and giving  his/her feedback. With this the student can successfully submit feedback on lecturer's  teaching in a very efficient manner without any loss of data. The administrator and  the faculty members can access these feedbacks from the students and take  appropriate actions.
 
 
-#Hardware RequirementsAnalysis 
+# Hardware Requirements Analysis 
 • Operating system: Windows, Android, Linus, IOS • Ram: Minimum 1gb 
 • Internet connection broadband: minimum of 512kbps 
-#Software Requirements Analysis 
+# Software Requirements Analysis 
 i) XAMPP server or WAMP or LAMP 
 ii) Wamp if windows os. 
 iii) Lamp for Linux os. 
